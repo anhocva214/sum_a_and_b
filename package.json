@@ -1,0 +1,22 @@
+{
+  "name": "sum_a_and_b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhocva214/sum_a_and_b.git"
+  },
+  "keywords": [
+    "sum_a_and_b"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhocva214/sum_a_and_b/issues"
+  },
+  "homepage": "https://github.com/anhocva214/sum_a_and_b#readme"
+}
